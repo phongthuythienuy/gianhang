@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoàng Quốc Huy (Liz QuieHui – Huang Guohui) - Profile</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+            line-height: 1.6;
+            color: #24292e;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+        }
+        h1 {
+            font-size: 2rem;
+            font-weight: 600;
+            margin-bottom: 5px;
+            color: #0366d6;
+            border-bottom: 1px solid #eaecef;
+            padding-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 1.15rem;
+            color: #586069;
+            margin: 5px 0;
+            font-style: italic;
+            font-weight: 500;
+        }
+        h2 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-top: 30px;
+            margin-bottom: 16px;
+            border-bottom: 1px solid #eaecef;
+            padding-bottom: 5px;
+            color: #24292e;
+        }
+        p {
+            margin-top: 0;
+            margin-bottom: 16px;
+            text-align: justify;
+        }
+        ul {
+            padding-left: 2em;
+            margin-top: 0;
+            margin-bottom: 16px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        strong {
+            color: #000000;
+        }
+        blockquote {
+            padding: 0 1em;
+            color: #6a737d;
+            border-left: 0.25em solid #dfe2e5;
+            margin: 20px 0;
+            font-style: italic;
+            background-color: #f6f8fa;
+            padding: 15px;
+            border-radius: 3px;
+        }
+        
+        /* CSS Chân trang 3 cột hiện đại */
+        footer {
+            margin-top: 80px;
+            border-top: 1px solid #eaecef;
+            padding-top: 40px;
+            padding-bottom: 20px;
+            font-size: 0.9rem;
+            color: #586069;
+        }
+        .footer-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .footer-col h3 {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #24292e;
+            margin-top: 0;
+            margin-bottom: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .footer-col p {
+            font-size: 0.85rem;
+            line-height: 1.5;
+            margin: 0;
+            color: #586069;
+        }
+        .footer-col ul {
+            list-style: none;
+            padding-left: 0;
+            margin: 0;
+        }
+        .footer-col ul li {
+            margin-bottom: 6px;
+            font-size: 0.85rem;
+        }
+        .footer-col a {
+            color: #0366d6;
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+        .footer-col a:hover {
+            text-decoration: underline;
+            color: #0056b3;
+        }
+        .footer-bottom {
+            border-top: 1px solid #f1f1f1;
+            padding-top: 20px;
+            text-align: center;
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+
+        /* Tương thích thiết bị di động */
+        @media (max-width: 600px) {
+            .footer-container {
+                grid-template-columns: 1fr;
+                gap: 25px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <h1>HOÀNG QUỐC HUY (Liz QuieHui – Huang Guohui)</h1>
+    <div class="subtitle">Researcher in Religious Studies</div>
+    <div class="subtitle">Feng Shui Scholar • Cultural Consultant • Information Technology Specialist • Poet & Painter</div>
+
+    <p><strong>Hoàng Quốc Huy</strong> (còn được biết đến với các tên <strong>Liz QuieHui</strong>, <strong>Huang Guohui</strong>, <strong>Huỳnh Quốc Huy</strong>) là nhà nghiên cứu về phong thủy, dịch học, tôn giáo học và văn hóa phương Đông. Bên cạnh hoạt động nghiên cứu, ông còn tham gia tư vấn văn hóa – phong thủy, sáng tác văn học, hội họa và công nghệ thông tin.</p>
+    
+    <p>Trong hơn hai thập kỷ nghiên cứu, ông tập trung tìm hiểu các học thuyết cổ truyền phương Đông như Kinh Dịch, phong thủy, triết học và tín ngưỡng, đồng thời tiếp cận các lĩnh vực này dưới góc nhìn liên ngành, kết hợp giữa tri thức truyền thống và tư duy khoa học hiện đại.</p>
+
+    <p>Theo quan điểm của Hoàng Quốc Huy, phong thủy không chỉ là một hệ thống tri thức về môi trường sống mà còn là phương pháp hướng đến sự cân bằng giữa con người và thiên nhiên, giữa đời sống vật chất và tinh thần. Triết lý nghiên cứu mà ông theo đuổi là:</p>
+
+    <blockquote>
+        "Phong thủy không chỉ là học thuyết, mà là nghệ thuật sống – nơi con người tìm thấy sự cân bằng, hòa hợp và hướng đến các giá trị Chân – Thiện – Mỹ."
+    </blockquote>
+
+    <h2>Lĩnh vực nghiên cứu và hoạt động</h2>
+    <ul>
+        <li><strong>Phong thủy ứng dụng</strong> và Dịch học.</li>
+        <li><strong>Tôn giáo học</strong> và văn hóa tâm linh.</li>
+        <li><strong>Triết học</strong> và văn hóa phương Đông.</li>
+        <li><strong>Tư vấn phong thủy</strong> trong kiến trúc, không gian sống và môi trường làm việc.</li>
+        <li><strong>Văn hóa doanh nghiệp</strong> và phát triển bền vững.</li>
+        <li><strong>Công nghệ thông tin</strong> và ứng dụng công nghệ trong nghiên cứu.</li>
+        <li><strong>Sáng tác văn học</strong>, thơ và hội họa.</li>
+    </ul>
+
+    <h2>Hoạt động nghề nghiệp</h2>
+    <p>Trong quá trình nghiên cứu và tư vấn, Hoàng Quốc Huy tham gia nhiều dự án liên quan đến quy hoạch không gian sống, kiến trúc, công trình văn hóa và tư vấn phong thủy cho cá nhân cũng như doanh nghiệp. Ông định hướng việc ứng dụng phong thủy trên cơ sở kết hợp giữa kinh nghiệm thực tiễn, tri thức truyền thống và cách tiếp cận khoa học, hướng đến những giải pháp hài hòa, phù hợp với từng hoàn cảnh cụ thể.</p>
+
+    <h2>Hoạt động xã hội</h2>
+    <p>Hoàng Quốc Huy từng tham gia nhiều tổ chức chuyên môn và xã hội trong các lĩnh vực luật, văn hóa, giáo dục và cộng đồng. Ông cũng tích cực tham gia các hoạt động nghiên cứu, giao lưu học thuật và chia sẻ tri thức về văn hóa phương Đông.</p>
+
+    <h2>Hoạt động nghệ thuật</h2>
+    <p>Bên cạnh công tác nghiên cứu, Hoàng Quốc Huy còn sáng tác thơ dưới bút danh <strong>Hoàng Huy</strong> và theo đuổi hội họa như một hình thức biểu đạt đời sống tinh thần. Trong các sáng tác của mình, ông khai thác các chủ đề về thiên nhiên, triết lý sống, tâm linh và mối quan hệ giữa con người với vũ trụ.</p>
+
+    <h2>Quan điểm nghiên cứu</h2>
+    <p>Hoàng Quốc Huy cho rằng giá trị của phong thủy không nằm ở yếu tố huyền bí mà ở khả năng giúp con người nhận thức rõ hơn về môi trường sống, xây dựng không gian hài hòa và hình thành lối sống cân bằng. Ông nhấn mạnh việc tiếp cận phong thủy bằng tinh thần nghiên cứu khách quan, tôn trọng tri thức truyền thống đồng thời vận dụng các thành tựu của khoa học hiện đại.</p>
+    
+    <p>Thông qua các hoạt động nghiên cứu, tư vấn, sáng tác và chia sẻ tri thức, ông hướng đến việc góp phần bảo tồn các giá trị văn hóa phương Đông, thúc đẩy sự hiểu biết giữa các nền văn hóa và lan tỏa những giá trị tích cực đến cộng đồng.</p>
+
+    <footer>
+        <div class="footer-container">
+            <!-- Cột 1: Giới thiệu ngắn -->
+            <div class="footer-col">
+                <h3>Về tác giả</h3>
+                <p>Nhà nghiên cứu học thuật liên ngành, kết hợp tri thức phương Đông truyền thống và công nghệ khoa học hiện đại hướng tới sự phát triển bền vững.</p>
+            </div>
+            
+            <!-- Cột 2: Định hướng liên kết -->
+            <div class="footer-col">
+                <h3>Nghiên cứu & Nghệ thuật</h3>
+                <ul>
+                    <li><a href="#">Bài viết học thuật</a></li>
+                    <li><a href="#">Dự án Phong thủy</a></li>
+                    <li><a href="#">Tuyển tập Thơ Hoàng Huy</a></li>
+                    <li><a href="#">Tác phẩm Hội họa</a></li>
+                </ul>
+            </div>
+            
+            <!-- Cột 3: Kết nối -->
+            <div class="footer-col">
+                <h3>Kết nối</h3>
+                <ul>
+                    <li>Email: <a href="mailto:lizquiehui@gmail.com">lizquiehui@gmail.com</a></li>
+                    <li>Website: <a href="https://hoangquochuyvn.blogspot.com" target="_blank">https://hoangquochuyvn.blogspot.com</a></li>
+                    <li>GitHub: <a href="https://lizquiehui.github.com" target="_blank">https://lizquiehui.github.com</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <div class="copyright">
+                &copy; 2026 Hoàng Quốc Huy. All Rights Reserved.
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
